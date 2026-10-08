@@ -15,4 +15,6 @@ Run .py with python
 
 or open terminal
 
-python chrome_multi_mannager_v1.py
+```python
+print("python chrome_multi_mannager_v1.py")
+```
