@@ -15,6 +15,6 @@ Run .py with python
 
 or open terminal
 
-```python
+```
 python chrome_multi_mannager_v1.py
 ```
